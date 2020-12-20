@@ -1,7 +1,7 @@
 ### Hi there, I'm Swayamjit - [website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://swayamjitsaha.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SwayamjitSaha)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SwayamjitSaha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SwayamjitSaha)
 
 ## I'm a recent graduate in Computer Science and Engineering with research interests in Artificial Intelligence, Computer Vision, Human-Computer Interaction, Information Visualization, and Databases.
 
