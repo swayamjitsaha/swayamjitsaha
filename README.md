@@ -74,6 +74,10 @@
 
 </details>
 
+# LATEST Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://swayamjitsaha.github.io/
 [course]: https://swayamjitsaha.medium.com/a-beginners-guide-to-assembling-a-budget-gaming-desktop-9e5fd12f15ec
 [twitter]: https://twitter.com/SwayamjitSaha
@@ -83,3 +87,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+
