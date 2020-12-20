@@ -42,15 +42,7 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [A beginner’s guide to assembling a budget gaming desktop](https://swayamjitsaha.medium.com/a-beginners-guide-to-assembling-a-budget-gaming-desktop-9e5fd12f15ec)
-- [History, as we say, repeats itself!](https://swayamjitsaha.medium.com/history-as-we-say-repeats-itself-80cbd6209797)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://swayamjitsaha.medium.com/)
 
 ---
 
