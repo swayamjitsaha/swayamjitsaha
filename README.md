@@ -6,14 +6,14 @@
 ## I'm a recent graduate in Computer Science and Engineering with research interests in Artificial Intelligence, Computer Vision, Human-Computer Interaction, Information Visualization, and Databases.
 
 - 🔭 I just published A beginner’s guide to assembling a budget gaming desktop: [Medium][course]!
-- 🌱 I am always interested in knowing how a computer does what it does 🤣
+- 🌱 I am always interested in knowing how a computer does what it does 
 - 👯 I’m looking into PhD options (Computer Sciences) for Fall '21
 - 🥅 2020 Goals: Learn and implement the knowledge gathered
 - ⚡ Fun fact: I love to write and play guitar 
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ)
+[<img src="https://linkstorage.linkfire.com/medialinks/images/2bd3689a-7679-4e8b-9f5a-b8b1b73f567d/artwork-440x440.jpg" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ)
 
 ### Connect with me:
 
