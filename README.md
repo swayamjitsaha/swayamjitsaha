@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=swayamjitsaha.github.io&style=for-the-badge&url=https%3A%2F%2Fswayamjitsaha.github.io)](https://swayamjitsaha.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SwayamjitSaha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SwayamjitSaha)
 
-## I'm a recent graduate in Computer Science and Engineering with research interests in Artificial Intelligence, Computer Vision, Human-Computer Interaction, Information Visualization, and Databases.
+## I'm a recent graduate in Computer Science and Engineering with research interests in Artificial Intelligence, Computer Vision, Human-Computer Interaction, Information Visualization, and Databases. Currently, I am working as a Research Assistant at the Ghilu Lab, Indian Statistical Institute Kolkata.
 
 - 🔭 I just published A beginner’s guide to assembling a budget gaming desktop: [Medium][course]!
-- 🌱 I am always interested in knowing how a computer does what it does 
-- 👯 I’m looking into PhD options (Computer Sciences) for Fall '21
+- 🌱 I am always interested in knowing how a computer does what it does 🖥️
+- 🧑‍🎓 I’m looking into PhD options (Computer Sciences) for Fall '21
 - 🥅 2020 Goals: Learn and implement the knowledge gathered
 - ⚡ Fun fact: I love to write and play guitar 
 
