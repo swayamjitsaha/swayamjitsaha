@@ -5,7 +5,7 @@
 
 ## I'm a recent graduate in Computer Science and Engineering with research interests in Artificial Intelligence, Computer Vision, Human-Computer Interaction, Information Visualization, and Databases. Currently, I am working as a Research Assistant at the Ghilu Lab, Indian Statistical Institute Kolkata.
 
-- 🔭 I just published A beginner’s guide to assembling a budget gaming desktop: [Medium][course]!
+- 🔭 I just published Comprehensive forecasting based analysis using stacked stateless and stateful Gated Recurrent Unit models: [Link][course]!
 - 🌱 I am always interested in knowing how a computer does what it does 🖥️
 - 🧑‍🎓 I’m looking into PhD options (Computer Sciences) for Fall '21
 - 🥅 2020 Goals: Learn and implement the knowledge gathered
@@ -55,14 +55,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamjitsaha)](https://github.com/swayamjitsaha/github-readme-stats)
 
 [website]: https://swayamjitsaha.github.io/
-[course]: https://swayamjitsaha.medium.com/a-beginners-guide-to-assembling-a-budget-gaming-desktop-9e5fd12f15ec
+[course]: https://arxiv.org/abs/2008.05575
 [twitter]: https://twitter.com/SwayamjitSaha
 [instagram]: https://www.instagram.com/swayamjit.s/
 [linkedin]: https://www.linkedin.com/in/swayamjitsaha/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+[webdevplaylist]: https://github.com/swayamjitsaha/
+[jsplaylist]: https://github.com/swayamjitsaha/
+[cssplaylist]: https://github.com/swayamjitsaha/
+[reactplaylist]: https://github.com/swayamjitsaha/
 
 
