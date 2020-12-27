@@ -42,10 +42,6 @@
 <br />
 <br />
 
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 [![Swayamjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swayamjitsaha)](https://github.com/swayamjitsaha/github-readme-stats)
