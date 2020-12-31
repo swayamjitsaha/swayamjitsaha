@@ -42,6 +42,7 @@
 <br />
 <br />
 
+### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Does Colorism or Colour-based variation exist in India?](https://swayamjitsaha.github.io/posts/colorismind/)
 - [Instances of Life](https://swayamjitsaha.github.io/posts/instance/)
