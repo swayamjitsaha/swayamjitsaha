@@ -43,6 +43,10 @@
 <br />
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Colorism or Colour-based variation exist in India?](https://swayamjitsaha.github.io/posts/colorismind/)
+- [Instances of Life](https://swayamjitsaha.github.io/posts/instance/)
+- [Let's Hike!](https://swayamjitsaha.github.io/posts/hike/)
+- [My Affection for Plants](https://swayamjitsaha.github.io/posts/affection/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Swayamjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swayamjitsaha)](https://github.com/swayamjitsaha/github-readme-stats)
