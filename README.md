@@ -42,6 +42,9 @@
 <br />
 <br />
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [![Swayamjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swayamjitsaha)](https://github.com/swayamjitsaha/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamjitsaha)](https://github.com/swayamjitsaha/github-readme-stats)
