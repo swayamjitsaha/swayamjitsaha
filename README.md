@@ -7,7 +7,7 @@
 
 - 🔭 I just published Comprehensive forecasting based analysis using stacked stateless and stateful Gated Recurrent Unit models: [Link][course]!
 - 🌱 I am always interested in knowing how a computer does what it does 🖥️
-- 🧑‍🎓 I’m looking into PhD options (Computer Sciences) for Fall '21
+- 🧑‍🎓 I’m looking into PhD options (Computer Science) for Fall '21
 - 🥅 2020 Goals: Learn and implement the knowledge gathered
 - ⚡ Fun fact: I love to write and play guitar 
 
