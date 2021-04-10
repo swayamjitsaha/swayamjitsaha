@@ -1,4 +1,4 @@
-### Hello, Swayamjit here! - [website] 👋
+### Hello, Swayamjit here! 👋
 
 [![Website](https://img.shields.io/website?label=swayamjitsaha.github.io&style=for-the-badge&url=https%3A%2F%2Fswayamjitsaha.github.io)](https://swayamjitsaha.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SwayamjitSaha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SwayamjitSaha)
@@ -34,7 +34,6 @@
 - [My Medium Blog!](https://swayamjitsaha.medium.com/)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://swayamjitsaha.github.io/
 [projects]: https://swayamjitsaha.github.io/projects/
 [twitter]: https://twitter.com/SwayamjitSaha
 [instagram]: https://www.instagram.com/swayamjit.s/
